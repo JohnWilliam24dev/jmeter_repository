@@ -87,7 +87,4 @@ Esse é um indicador crítico de que o sistema **não suportou a carga** ou apre
 O serviço **não suportou** a carga aplicada.  
 Apesar do tempo médio ser bom, a altíssima taxa de erros e a grande oscilação dos tempos tornam o desempenho **inaceitável para produção**.
 
----
-
-Se quiser, posso gerar um gráfico, transformar em PDF ou criar uma versão executiva mais formal.  
 
