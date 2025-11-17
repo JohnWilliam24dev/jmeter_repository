@@ -1,0 +1,25 @@
+{
+  "name": "jmeter_repository",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnWilliam24dev/jmeter_repository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JohnWilliam24dev/jmeter_repository/issues"
+  },
+  "homepage": "https://github.com/JohnWilliam24dev/jmeter_repository#readme",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "express": "^5.1.0"
+  }
+}
